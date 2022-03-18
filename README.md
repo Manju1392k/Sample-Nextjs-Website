@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Sample Website
+
+Working on Nextjs Framework. This is my first project in Nextjs Framework. In future i will Add More Which made with Next.js. I know this project is very simple 
+I am correctly working on it. It takes some time to learn. I hope this project will help you.
+
+## Framework
+
+The table framework is used in this project
+| Framework  | Version |
+| ------------- | ------------- |
+| Next.js  | 12.1  |
+| Node.js  | 16.14.0  |
+
+## Preview of Sample Website
+
+![NextjsSample_Photo](https://user-images.githubusercontent.com/66934377/158976415-84abf3d1-33d1-4e42-81e9-b12e9ec832f8.png)
 
 ## Getting Started
 
