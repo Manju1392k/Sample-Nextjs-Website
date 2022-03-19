@@ -1,21 +1,28 @@
-## Sample Website
+# Sample Website
 
 Working on Nextjs Framework. This is my first project in Nextjs Framework. In future i will Add More Which made with Next.js. I know this project is very simple 
 I am correctly working on it. It takes some time to learn. I hope this project will help you.
 
-## Framework
+---
 
-The table framework is used in this project
+# Preview of Sample Website
+
+![NextjsSample_Photo](https://user-images.githubusercontent.com/66934377/158976415-84abf3d1-33d1-4e42-81e9-b12e9ec832f8.png)
+
+---
+
+# Framework
+
+The Below Table Framework's is used in this project. To run this project. This framework's has been installed in system with same Version or Lastest Version.
+
 | Framework  | Version |
 | ------------- | ------------- |
 | Next.js  | 12.1  |
 | Node.js  | 16.14.0  |
 
-## Preview of Sample Website
+---
 
-![NextjsSample_Photo](https://user-images.githubusercontent.com/66934377/158976415-84abf3d1-33d1-4e42-81e9-b12e9ec832f8.png)
-
-## Getting Started
+# Getting Started
 
 First, run the development server:
 
@@ -33,7 +40,9 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+---
+
+# Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -42,7 +51,9 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+---
+
+# Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
