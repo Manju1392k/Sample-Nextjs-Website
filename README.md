@@ -13,7 +13,7 @@ I am correctly working on it. It takes some time to learn. I hope this project w
 
 # Framework
 
-The Below Table Framework's is used in this project. To run this project. This framework's has been installed in system with same Version or Lastest Version.
+The Below Table Framework's is used in this project. To run this project. This framework's has been installed in system with same Version or Latest Version.
 
 | Framework  | Version |
 | ------------- | ------------- |
